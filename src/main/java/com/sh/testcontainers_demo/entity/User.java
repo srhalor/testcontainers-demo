@@ -9,7 +9,7 @@ import java.util.List;
 @Getter
 @Setter
 @AllArgsConstructor
-@NoArgsConstructor(access = AccessLevel.PROTECTED)
+@NoArgsConstructor
 @ToString
 @SuperBuilder
 @Entity

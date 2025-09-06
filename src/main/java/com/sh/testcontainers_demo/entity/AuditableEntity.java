@@ -26,7 +26,7 @@ import java.time.Instant;
 @Getter
 @Setter
 @AllArgsConstructor
-@NoArgsConstructor(access = AccessLevel.PROTECTED)
+@NoArgsConstructor
 @SuperBuilder
 public abstract class AuditableEntity implements Serializable {
 
