@@ -2,6 +2,7 @@ package com.sh.testcontainers_demo;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;
+import org.testcontainers.utility.TestcontainersConfiguration;
 
 /*
  * This is a test application class to run the main application with testcontainers configuration.
